@@ -10,13 +10,13 @@
   "categories": ["business", "finance", "productivity"],
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><path d='M256 80 L256 432 M160 176 L256 80 L352 176 M160 336 L256 432 L352 336' stroke='white' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><g stroke='white' stroke-width='28' fill='none' stroke-linecap='round' stroke-linejoin='round'><path d='M120 180 Q220 100 280 180 Q340 260 400 200'/><circle cx='110' cy='180' r='12' fill='white'/><circle cx='410' cy='200' r='12' fill='white'/></g></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><path d='M256 80 L256 432 M160 176 L256 80 L352 176 M160 336 L256 432 L352 336' stroke='white' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><g stroke='white' stroke-width='28' fill='none' stroke-linecap='round' stroke-linejoin='round'><path d='M120 180 Q220 100 280 180 Q340 260 400 200'/><circle cx='110' cy='180' r='12' fill='white'/><circle cx='410' cy='200' r='12' fill='white'/></g></svg>",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any maskable"
