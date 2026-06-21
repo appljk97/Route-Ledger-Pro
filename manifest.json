@@ -1,0 +1,25 @@
+{
+  "name": "Route Ledger Pro",
+  "short_name": "Route Ledger",
+  "description": "Business Finance Tracker",
+  "start_url": "/Route-Ledger-Pro/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#10b981",
+  "background_color": "#0a0e17",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><text x='256' y='340' font-size='280' text-anchor='middle' fill='white' font-family='Arial'>🚀</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><text x='256' y='340' font-size='280' text-anchor='middle' fill='white' font-family='Arial'>🚀</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
