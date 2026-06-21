@@ -10,13 +10,13 @@
   "categories": ["business", "finance", "productivity"],
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><g stroke='white' stroke-width='28' fill='none' stroke-linecap='round' stroke-linejoin='round'><path d='M120 180 Q220 100 280 180 Q340 260 400 200'/><circle cx='110' cy='180' r='12' fill='white'/><circle cx='410' cy='200' r='12' fill='white'/></g></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><path d='M448 96L320 96 293.66 122.34C289.37 126.63 284.15 128 278.63 128L233.37 128C227.85 128 222.63 126.63 218.34 122.34L192 96 64 96M448 416L64 416 64 288M350.63 314.34L320 288 224 288 192 320 128 320' stroke='white' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/><circle cx='64' cy='96' r='16' fill='white'/><circle cx='448' cy='96' r='16' fill='white'/><circle cx='64' cy='416' r='16' fill='white'/><circle cx='448' cy='416' r='16' fill='white'/><circle cx='448' cy='288' r='16' fill='white'/><circle cx='64' cy='288' r='16' fill='white'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><g stroke='white' stroke-width='28' fill='none' stroke-linecap='round' stroke-linejoin='round'><path d='M120 180 Q220 100 280 180 Q340 260 400 200'/><circle cx='110' cy='180' r='12' fill='white'/><circle cx='410' cy='200' r='12' fill='white'/></g></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%2310b981'/><path d='M448 96L320 96 293.66 122.34C289.37 126.63 284.15 128 278.63 128L233.37 128C227.85 128 222.63 126.63 218.34 122.34L192 96 64 96M448 416L64 416 64 288M350.63 314.34L320 288 224 288 192 320 128 320' stroke='white' stroke-width='32' fill='none' stroke-linecap='round' stroke-linejoin='round'/><circle cx='64' cy='96' r='16' fill='white'/><circle cx='448' cy='96' r='16' fill='white'/><circle cx='64' cy='416' r='16' fill='white'/><circle cx='448' cy='416' r='16' fill='white'/><circle cx='448' cy='288' r='16' fill='white'/><circle cx='64' cy='288' r='16' fill='white'/></svg>",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any maskable"
